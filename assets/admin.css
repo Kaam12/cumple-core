@@ -1,0 +1,27 @@
+assets/admin.css.cumple-metabox {
+    padding: 15px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+.cumple-field {
+    margin-bottom: 12px;
+}
+
+.cumple-field label {
+    font-weight: 600;
+    margin-bottom: 4px;
+    display: inline-block;
+}
+
+.cumple-field input,
+.cumple-field select,
+.cumple-field textarea {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 6px 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
